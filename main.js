@@ -13,7 +13,7 @@ function init (){
   ];
 
 var vectorSource = new ol.source.Vector({
-  url: 'https://raw.githubusercontent.com/MiguelHdzV/geoportal/master/features.json',
+  url: 'https://raw.githubusercontent.com/geset-visualizador/geoportal/main/features.json',
   format: new ol.format.GeoJSON() ,
   crossOrigin: 'anonymous'
 });
