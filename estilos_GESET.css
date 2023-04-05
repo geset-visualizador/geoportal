@@ -33,7 +33,7 @@ body::-webkit-scrollbar-button {
 
 
 .Info {
-    background-color: #f1eaea8c; 
+    background-color: #f1eaea9f; 
     position: absolute;
     width: 490px;
     height: 215px;
@@ -302,9 +302,9 @@ padding-bottom: 8px;
     justify-content: center;
     background-color: rgb(236, 240, 240);
     font-family: helvetica;
-    width: 600px;
-    max-width: 600px;
-    padding: 30px 50px;
+    width: 650px;
+    max-width: 650px;
+    padding: 30px 40px;
     border-radius: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.788);
   }
